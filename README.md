@@ -3,7 +3,7 @@ Steve's stock data analysis (parents)
 
 ##Project Overview
 
-* Provide Analsis for years 2017 and 2018 for all tickers.
+* Provide Steve with stock Analsis for years 2017 and 2018 for all tickers.
 
 2017 
 ![](/resource/VBA_Challenge_2017.png)
